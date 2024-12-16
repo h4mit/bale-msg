@@ -1,0 +1,6 @@
+/database.sqlite
+node_modules
+/node_modules
+*.txt
+/users.json
+package-lock.json
